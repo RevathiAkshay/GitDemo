@@ -1,0 +1,28 @@
+2021-10-14 19:08:01,860 : INFO : test_getdata :Revathi
+2021-10-14 19:08:01,893 : INFO : test_getdata :NS
+2021-10-14 19:10:52,005 : INFO : test_Logging : information only
+2021-10-14 19:10:52,022 : WARNING : test_Logging : warning statements
+2021-10-14 19:10:52,023 : ERROR : test_Logging : failure
+2021-10-14 19:10:52,023 : CRITICAL : test_Logging : catastrophical failure
+2021-10-14 19:10:52,820 : INFO : test_getdata :Revathi
+2021-10-14 19:10:52,820 : INFO : test_getdata :NS
+2021-10-14 19:22:03,948 : INFO : test_Logging : information only
+2021-10-14 19:22:03,964 : WARNING : test_Logging : warning statements
+2021-10-14 19:22:03,964 : ERROR : test_Logging : failure
+2021-10-14 19:22:03,964 : CRITICAL : test_Logging : catastrophical failure
+2021-10-14 19:22:04,315 : INFO : test_getdata :Revathi
+2021-10-14 19:22:04,315 : INFO : test_getdata :NS
+2021-10-15 15:40:55,929 : INFO : test_getdata :Revathi
+2021-10-15 15:40:55,977 : INFO : test_getdata :NS
+2021-10-15 15:44:06,242 : INFO : test_Logging : information only
+2021-10-15 15:44:06,257 : WARNING : test_Logging : warning statements
+2021-10-15 15:44:06,257 : ERROR : test_Logging : failure
+2021-10-15 15:44:06,257 : CRITICAL : test_Logging : catastrophical failure
+2021-10-15 15:44:06,587 : INFO : test_getdata :Revathi
+2021-10-15 15:44:06,587 : INFO : test_getdata :NS
+2021-10-18 19:24:59,211 : INFO : test_Logging : information only
+2021-10-18 19:24:59,220 : WARNING : test_Logging : warning statements
+2021-10-18 19:24:59,220 : ERROR : test_Logging : failure
+2021-10-18 19:24:59,221 : CRITICAL : test_Logging : catastrophical failure
+2021-10-18 19:25:02,083 : INFO : test_getdata :Revathi
+2021-10-18 19:25:02,084 : INFO : test_getdata :NS
