@@ -21,8 +21,10 @@ dropdowns = Select(driver.find_element_by_id("exampleFormControlSelect1"))
 dropdowns.select_by_visible_text("Female")
 
 driver.find_element_by_class_name("btn-success").click()
+print("hello")
 
 assert "Success" in driver.find_element_by_class_name("alert-success").text
+
 
 
 
